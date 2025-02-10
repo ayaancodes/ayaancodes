@@ -8,10 +8,6 @@
   </ul>
 </div>
 
-<!--- snake animation -->
-<div align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake" />
-</div>
 
 ## About Me
 - I like working with **Python, JavaScript, and Java**, and I’m currently learning **C++**.  
