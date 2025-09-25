@@ -11,10 +11,8 @@
 
 ## About Me
 - I like working with **Python, JavaScript, and Java**, and I’m currently learning **C++**.  
-- Interested in **computer architecture and networking applications**.  
+- Interested in **capital markets, distributed tech and networking applications**.  
 - Previously worked at **RBC Capital Markets, Beats by Dre, and Canam Group**.  
-- I enjoy **working out, playing soccer, and trying to learn rock climbing**.  
-
 ---
 
 ---
