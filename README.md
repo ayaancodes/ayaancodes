@@ -12,7 +12,7 @@
 ## About Me
 - I like working with **Python, JavaScript, and Java**, and I’m currently learning **C++**.  
 - Interested in **capital markets, distributed tech and networking applications**.  
-- Previously worked at **RBC Capital Markets, Beats by Dre, and Canam Group**.  
+- Previously worked at ** BMO Capital Markets, RBC Capital Markets, Beats by Dre, and Canam Group**.  
 ---
 
 ---
