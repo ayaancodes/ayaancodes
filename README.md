@@ -11,7 +11,7 @@
 
 ## About Me
 - 🚀 Currently a **SWE Intern at Rippling**  
-- 📍 Currently based in **NYC** - from **Toronto, Brampton & London, Ontario**  
+- 📍 Based in **NYC** — from **Toronto, Brampton & London, Ontario**  
 - 🎓 **Software Engineering student at Western University**  
 - 📈 Interested in **trading technology, capital markets, and distributed systems**  
 - 💻 I like working with **Python, JavaScript, and Java**, and I'm currently learning **C++**  
@@ -21,7 +21,7 @@
 
 ## Most Used Languages
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayaancodes&layout=compact&langs_count=10&theme=radical&hide_border=false&include_all_commits=true" />
+  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ayaancodes&layout=compact&langs_count=10&theme=radical&hide_border=false" />
 </p>
 
 ---
