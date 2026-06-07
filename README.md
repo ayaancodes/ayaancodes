@@ -10,10 +10,12 @@
 
 
 ## About Me
-- I like working with **Python, JavaScript, and Java**, and I’m currently learning **C++**.  
-- Interested in **capital markets, distributed tech and networking applications**.  
-- Previously worked at **BMO Capital Markets, RBC Capital Markets, Beats by Dre, and Canam Group**.  
----
+- 🚀 Currently a **SWE Intern at Rippling**  
+- 📍 Currently based in **NYC** - from **Toronto, Brampton & London, Ontario**  
+- 🎓 **Software Engineering student at Western University**  
+- 📈 Interested in **trading technology, capital markets, and distributed systems**  
+- 💻 I like working with **Python, JavaScript, and Java**, and I'm currently learning **C++**  
+- Previously worked at **BMO Capital Markets, RBC Capital Markets, Beats by Dre, and Canam Group**  
 
 ---
 
@@ -23,7 +25,6 @@
 </p>
 
 ---
-
 
 <!--horizontal divider (gradient)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
