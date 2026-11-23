@@ -12,9 +12,7 @@
 
 I’m an incoming Software Engineering Intern at [Google](https://cloud.google.com).
 
-I build software and AI tools, with a focus on multi-agent systems and investment analytics. At Aker AI, I work with the Investments Analytics Team in New York, building multi-agent tools that let the team query real estate data in plain English.
-
-My experience spans buy-side investment analytics at Aker AI and sell-side market-making and quantitative technology teams at BMO and RBC.
+My product and applied AI engineering experience spans Aker AI and Rippling, building customer-facing AI tools. My financial trading engineering experience spans BMO and RBC’s sell-side market-making and quantitative technology teams, alongside Aker AI’s buy-side Investments Analytics Team in New York, where I build multi-agent tools to query real estate data in plain English.
 
 ### Skills
 
