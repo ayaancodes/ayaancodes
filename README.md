@@ -45,7 +45,7 @@ My experience spans buy-side investment analytics at Aker AI and sell-side marke
 </details>
 
 <details>
-  <summary><strong>Software Engineer · Rippling</strong> · Time &amp; Scheduling Product Team · New York City</summary>
+  <summary><img src="https://ayaanmunshi.vercel.app/experience/RipplingLogo.svg" alt="Rippling" height="20" /> <strong>Software Engineer · Rippling</strong> · Time &amp; Scheduling Product Team · New York City · Summer 2026</summary>
   <br />
   Built customer-facing AI tools and typed contracts for tool-calling APIs.
 </details>
@@ -87,7 +87,7 @@ My experience spans buy-side investment analytics at Aker AI and sell-side marke
 </details>
 
 <details>
-  <summary><strong>Competition Director · Ontario Engineering Competition</strong> · 2023</summary>
+  <summary><strong>Competition Director · Ontario Engineering Competition</strong> · London, Ontario · 2023</summary>
   <br />
   Led development of an ESG infrastructure case for the competition.
 </details>
