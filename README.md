@@ -33,13 +33,13 @@ My experience spans buy-side investment analytics at Aker AI and sell-side marke
 ### Experience
 
 <details>
-  <summary><img src="https://ayaanmunshi.vercel.app/experience/google-logo-nov19.png" alt="Google" width="20" height="20" /> <strong>Incoming Software Engineering Intern · Google</strong> · United States</summary>
+  <summary><img src="https://ayaanmunshi.vercel.app/experience/google-logo-nov19.png" alt="Google" height="20" /> <strong>Incoming Software Engineering Intern · Google</strong> · United States</summary>
   <br />
   Incoming Software Engineering Intern.
 </details>
 
 <details>
-  <summary><img src="https://ayaanmunshi.vercel.app/experience/aker-mark-nov19.png" alt="Aker AI" width="20" height="20" /> <strong>Applied AI Engineer · Aker AI</strong> · buy-side Investments Analytics Team · New York · Fall 2026</summary>
+  <summary><img src="https://ayaanmunshi.vercel.app/experience/aker-mark-nov19.png" alt="Aker AI" height="20" /> <strong>Applied AI Engineer · Aker AI</strong> · buy-side Investments Analytics Team · New York · Fall 2026</summary>
   <br />
   Building multi-agent tools that help the investment team query real estate data in plain English. Focus areas include Python, harness engineering, and retrieval-augmented generation (RAG).
 </details>
@@ -51,37 +51,37 @@ My experience spans buy-side investment analytics at Aker AI and sell-side marke
 </details>
 
 <details>
-  <summary><img src="https://ayaanmunshi.vercel.app/experience/bmo-transparent-nov19.png" alt="BMO" width="20" height="20" /> <strong>Quantitative Trading Intern · BMO Capital Markets</strong> · ETF Market Making · Toronto · Winter 2026</summary>
+  <summary><img src="https://ayaanmunshi.vercel.app/experience/bmo-transparent-nov19.png" alt="BMO" height="20" /> <strong>Quantitative Trading Intern · BMO Capital Markets</strong> · ETF Market Making · Toronto · Winter 2026</summary>
   <br />
   Researched ETF market making and portfolio flows using Python and KDB/Q.
 </details>
 
 <details>
-  <summary><img src="https://ayaanmunshi.vercel.app/experience/rbc-transparent-nov19.png" alt="RBC" width="20" height="20" /> <strong>Software Developer Intern · RBC Capital Markets</strong> · Quantitative Technology Team · Toronto · Fall 2025</summary>
+  <summary><img src="https://ayaanmunshi.vercel.app/experience/rbc-transparent-nov19.png" alt="RBC" height="20" /> <strong>Software Developer Intern · RBC Capital Markets</strong> · Quantitative Technology Team · Toronto · Fall 2025</summary>
   <br />
   Built streaming APIs and data checks for capital markets systems.
 </details>
 
 <details>
-  <summary><img src="https://ayaanmunshi.vercel.app/experience/rbc-transparent-nov19.png" alt="RBC" width="20" height="20" /> <strong>Software Developer Intern · RBC Amplify</strong> · US Cash Management Team · Toronto · Summer 2025</summary>
+  <summary><img src="https://ayaanmunshi.vercel.app/experience/rbc-transparent-nov19.png" alt="RBC" height="20" /> <strong>Software Developer Intern · RBC Amplify</strong> · US Cash Management Team · Toronto · Summer 2025</summary>
   <br />
   Designed multi-agent payment workflows and data schemas for banking services.
 </details>
 
 <details>
-  <summary><img src="https://ayaanmunshi.vercel.app/experience/rbc-transparent-nov19.png" alt="RBC" width="20" height="20" /> <strong>Software Engineer Intern · RBC Capital Markets</strong> · Enterprise Market Risk · Toronto · Summer 2024</summary>
+  <summary><img src="https://ayaanmunshi.vercel.app/experience/rbc-transparent-nov19.png" alt="RBC" height="20" /> <strong>Software Engineer Intern · RBC Capital Markets</strong> · Enterprise Market Risk · Toronto · Summer 2024</summary>
   <br />
   Built a notification system for market-risk analytics.
 </details>
 
 <details>
-  <summary><img src="https://ayaanmunshi.vercel.app/experience/western-transparent-nov19.png" alt="Western University" width="20" height="20" /> <strong>Design Thinking Technology Intern · RBC Design Thinking</strong> · Western University · London, Ontario · Fall 2023</summary>
+  <summary><img src="https://ayaanmunshi.vercel.app/experience/western-transparent-nov19.png" alt="Western University" height="20" /> <strong>Design Thinking Technology Intern · RBC Design Thinking</strong> · Western University · London, Ontario · Fall 2023</summary>
   <br />
   Presented a financial-assistance MVP after research and usability testing.
 </details>
 
 <details>
-  <summary><img src="https://ayaanmunshi.vercel.app/experience/canam-transparent-nov19.png" alt="Canam" width="20" height="20" /> <strong>Lean Engineering Student · Canam Manufacturing Group</strong> · Lean Engineering Team · Mississauga, Ontario · Summer 2023</summary>
+  <summary><img src="https://ayaanmunshi.vercel.app/experience/canam-transparent-nov19.png" alt="Canam" height="20" /> <strong>Lean Engineering Student · Canam Manufacturing Group</strong> · Lean Engineering Team · Mississauga, Ontario · Summer 2023</summary>
   <br />
   Built a C# and Blender shipment-yard tracker and supported lean process improvements.
 </details>
