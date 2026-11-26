@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ayaan Munshi 👋</h1>
 
 <p align="center">
-  Software Engineering student at Western University · 24 months of internship experience across trading, product, and forward-deployed roles
+  Software Engineering student at Western University · **24 months** of experience across engineering, trading, and forward-deployed roles
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 I’m an incoming Software Engineering Intern at [Google](https://cloud.google.com).
 
-My product and applied AI engineering experience spans Aker AI and Rippling, building customer-facing AI tools. My financial trading engineering experience spans BMO and RBC’s sell-side market-making and quantitative technology teams, alongside Aker AI’s buy-side Investments Analytics Team in New York, where I build multi-agent tools to query real estate data in plain English.
+My product and applied AI engineering experience spans Rippling & Aker AI, building customer-facing AI tools. My financial trading engineering experience spans BMO and RBC’s sell-side market-making and quantitative technology teams, alongside Aker AI’s buy-side Investments Analytics Team in New York, where I build multi-agent tools to query financial data in plain English.
 
 ### Skills
 
@@ -55,25 +55,13 @@ My product and applied AI engineering experience spans Aker AI and Rippling, bui
 </details>
 
 <details>
-  <summary><img src="https://ayaanmunshi.vercel.app/experience/rbc-transparent-nov19.png" alt="RBC" height="20" /> <strong>Software Developer Intern · RBC Capital Markets</strong> · Quantitative Technology Team · Toronto · Fall 2025</summary>
+  <summary><img src="https://ayaanmunshi.vercel.app/experience/rbc-transparent-nov19.png" alt="RBC" height="20" /> <strong> 3X Software Engineer Intern · RBC Capital Markets</strong> · Toronto · Summer 2024, Summer 2025, Fall 2025</summary>
   <br />
-  Built streaming APIs and data checks for capital markets systems.
+  Supported the quantitative technology, US Cash Management (Ammplify), and Enterprise Market Risk Team
 </details>
 
 <details>
-  <summary><img src="https://ayaanmunshi.vercel.app/experience/rbc-transparent-nov19.png" alt="RBC" height="20" /> <strong>Software Developer Intern · RBC Amplify</strong> · US Cash Management Team · Toronto · Summer 2025</summary>
-  <br />
-  Designed multi-agent payment workflows and data schemas for banking services.
-</details>
-
-<details>
-  <summary><img src="https://ayaanmunshi.vercel.app/experience/rbc-transparent-nov19.png" alt="RBC" height="20" /> <strong>Software Engineer Intern · RBC Capital Markets</strong> · Enterprise Market Risk · Toronto · Summer 2024</summary>
-  <br />
-  Built a notification system for market-risk analytics.
-</details>
-
-<details>
-  <summary><img src="https://ayaanmunshi.vercel.app/experience/western-transparent-nov19.png" alt="Western University" height="20" /> <strong>Design Thinking Technology Intern · RBC Design Thinking</strong> · Western University · London, Ontario · Fall 2023</summary>
+  <summary><img src="https://ayaanmunshi.vercel.app/experience/western-transparent-nov19.png" alt="Western University" height="20" /> <strong>Design Thinking Fellow · RBC Design Thinking</strong> · Western University · London, Ontario · Fall 2023</summary>
   <br />
   Presented a financial-assistance MVP after research and usability testing.
 </details>
@@ -84,11 +72,6 @@ My product and applied AI engineering experience spans Aker AI and Rippling, bui
   Built a C# and Blender shipment-yard tracker and supported lean process improvements.
 </details>
 
-<details>
-  <summary><strong>Competition Director · Ontario Engineering Competition</strong> · London, Ontario · 2023</summary>
-  <br />
-  Led development of an ESG infrastructure case for the competition.
-</details>
 
 ### Other
 
