@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ayaan Munshi 👋</h1>
 
 <p align="center">
-  Software Engineering student at Western University · **24 months** of experience across engineering, trading, and forward-deployed roles
+  Software Engineering student at Western University · <strong>24 Months</strong> of experience across engineering, trading, and forward-deployed roles
 </p>
 
 <p align="center">
